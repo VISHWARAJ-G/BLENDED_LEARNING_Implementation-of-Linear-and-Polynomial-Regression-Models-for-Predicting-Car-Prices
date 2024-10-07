@@ -122,7 +122,7 @@ plt.show()
 
 ```
 ## Output:
-![alt text](<Screenshot (868).png>)
+![alt text](<Screenshot (878).png>)
 ![alt text](image.png)
 
 ## Result:
